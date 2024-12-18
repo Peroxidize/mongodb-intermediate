@@ -1,0 +1,32 @@
+[
+    {
+        "_id": { "$oid": "67632483142998b3c6a04317" },
+        "userId": { "$oid": "6763243e67a06dca92d0a06b" },
+        "products": [
+            { "productId": { "$oid": "67632456421257241873030a" }, "quantity": 10 },
+            { "productId": { "$oid": "67632483142998b3c6a04317" }, "quantity": 2 },
+            { "productId": { "$oid": "67632461719b2f147021272a" }, "quantity": 1 }
+        ],
+        "orderDate": "2024-11-06",
+        "status": "Completed"
+    },
+    {
+        "_id": { "$oid": "676326d7568bc932d5299493" },
+        "userId": { "$oid": "6763244b52309710820aecda" },
+        "products": [
+            { "productId": { "$oid": "67632456421257241873030a" }, "quantity": 5 }
+        ],
+        "orderDate": "2024-11-09",
+        "status": "Completed"
+    },
+    {
+        "_id": { "$oid": "676326e1226cc9794921b500" },
+        "userId": { "$oid": "67632451f3fda881886a6d30" },
+        "products": [
+            { "productId": { "$oid": "67632483142998b3c6a04317" }, "quantity": 2 },
+            { "productId": { "$oid": "67632461719b2f147021272a" }, "quantity": 1 }
+        ],
+        "orderDate": "2024-12-03",
+        "status": "Completed"
+    }
+]

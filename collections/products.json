@@ -1,0 +1,23 @@
+[
+    {
+        "_id": { "$oid": "67632456421257241873030a" },
+        "name": "Flashlight",
+        "category": "Electronics",
+        "price": 5,
+        "stock": 100
+    },
+    {
+        "_id": { "$oid": "67632483142998b3c6a04317" },
+        "name": "Gardening Gloves",
+        "category": "Garden Tools",
+        "price": 3,
+        "stock": 50
+    },
+    {
+        "_id": { "$oid": "67632461719b2f147021272a" },
+        "name": "Frying Pan",
+        "category": "Kitchen ",
+        "price": 10,
+        "stock": 25
+    }
+]

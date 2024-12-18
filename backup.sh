@@ -1,0 +1,1 @@
+mongodump --db intermediate --out ./backup

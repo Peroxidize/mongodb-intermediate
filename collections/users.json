@@ -1,0 +1,20 @@
+[
+    {
+        "_id": { "$oid": "6763243e67a06dca92d0a06b" },
+        "name": "Jane Doe",
+        "email": "janedoe@gmail.com",
+        "password": "!@#$%12345"
+    },
+    {
+        "_id": { "$oid": "6763244b52309710820aecda" },
+        "name": "John Doe",
+        "email": "johndoe@gmail.com",
+        "password": "123ASD@!#"
+    },
+    {
+        "_id": { "$oid": "67632451f3fda881886a6d30" },
+        "name": "Billy Doe",
+        "email": "billydoe@gmail.com",
+        "password": "ASDAS!@#!@#adasd"
+    }
+]
